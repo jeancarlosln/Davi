@@ -25,7 +25,7 @@ Why davi? This plugin is being developed to help a reestablishment institution (
 
 ## Support ##
 
-Help configuring your configuration environment WebDevStudios/generator-plugin-wp : https://github.com/WebDevStudios/generator-plugin-wp
+Help to set up your configuration environment WebDevStudios/generator-plugin-wp : https://github.com/WebDevStudios/generator-plugin-wp
 
 ## Screenshots ##
 
