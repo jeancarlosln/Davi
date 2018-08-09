@@ -23,6 +23,10 @@ Upload the entire /davi directory to the /wp-content/plugins/ directory.
 
 Why davi? This plugin is being developed to help a reestablishment institution (CRDP), let's create a modern, intuitive application that will bring the resident closer to your family. David who defeated the digivest Golias, an example of overcoming and exeploying the compassion of Christ that even David erring many times, had God's love at his side.
 
+## Support ##
+
+Help configuring your configuration environment WebDevStudios/generator-plugin-wp : https://github.com/WebDevStudios/generator-plugin-wp
+
 ## Screenshots ##
 
 ## Changelog ##

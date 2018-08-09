@@ -370,3 +370,5 @@ add_action( 'plugins_loaded', array( davi(), 'hooks' ) );
 // Activation and deactivation.
 register_activation_hook( __FILE__, array( davi(), '_activate' ) );
 register_deactivation_hook( __FILE__, array( davi(), '_deactivate' ) );
+
+/** My dev */
